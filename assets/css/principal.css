@@ -1,4 +1,10 @@
 body {
     color: black;
-    background-color: aqua
+    background-color: aqua;
+}
+
+#logo img {
+    width: 500px;
+    border: 2px solid blue;
+    border-radius: 10px;
 }
